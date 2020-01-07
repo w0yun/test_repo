@@ -17,7 +17,7 @@
         <plugin.checkstyle.version>2.10</plugin.checkstyle.version>
         <plugin.maven-compiler.version>3.3</plugin.maven-compiler.version>
         <plugin.maven-surefire.version>2.18.1</plugin.maven-surefire.version>
-        <spring.version>4.2.2.RELEASE</spring.version>
+        <spring.version>5.2.2.RELEASE</spring.version>
         <aspectj.version>1.6.8</aspectj.version>
         <cglib.version>2.2.2</cglib.version>
         <mybatis.version>3.3.0</mybatis.version>
