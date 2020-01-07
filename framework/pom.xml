@@ -26,7 +26,7 @@
         <jedis.version>2.7.2</jedis.version>
         <mysql.driver.version>5.1.18</mysql.driver.version>
         <jackson.version>2.2.3</jackson.version>
-        <fastjson.version>1.2.7</fastjson.version>
+        <fastjson.version>1.2.25</fastjson.version>
         <netty-version>4.0.0.Alpha8</netty-version>
         <rocketmq.version>3.2.6</rocketmq.version>
         <jboss.logging.version>3.3.0.Final</jboss.logging.version>
